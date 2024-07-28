@@ -1,10 +1,10 @@
-       <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto;">
-        <h1 style="font-size: 28px; color: #333;">Hello, Everyone! Nice to meet you.</h1>
-        <p style="font-size: 16px; color: #666;">I am a dedicated and motivated full-stack / AI software engineer with a specialty in front-end development.</p>
-        <p style="font-size: 16px; color: #666;">I have extensive experience building industrial web applications from scratch to production across a variety of industries including healthcare, e-commerce, internet marketing, entertainment, live streaming, and web3.</p>
-        <p style="font-size: 16px; color: #666;">My favorite development toolkits are <span style="color: #007BFF; font-weight: bold;">Typescript/React/Next.js/TailwindCSS</span> and <span style="color: #007BFF; font-weight: bold;">Node.js/NestJS/AWS Lambda</span>.</p>
-        <p style="font-size: 16px; color: #666;">I also have a particular passion for <span style="color: #007BFF; font-weight: bold;">OpenAI/ChatGPT</span> and GPT variants and other AI services, and have extensive experience integrating services to build intelligent platforms.</p>
-        <p style="font-size: 16px; color: #666;">I follow best practices and implement modern user interfaces and best user experiences to ensure the highest quality of products.</p>
+## Hello, Everyone! Nice to meet you.
+
+I am a dedicated and motivated full-stack / AI software engineer with a specialty in front-end development.
+I have extensive experience building industrial web applications from scratch to production across a variety of industries including healthcare, e-commerce, internet marketing, entertainment, live streaming, and web3.
+My favorite development toolkits are <span style="color: #007BFF; font-weight: bold;">Typescript/React/Next.js/TailwindCSS</span> and <span style="color: #007BFF; font-weight: bold;">Node.js/NestJS/AWS Lambda</span>.
+I also have a particular passion for <span style="color: #007BFF; font-weight: bold;">OpenAI/ChatGPT</span> and GPT variants and other AI services, and have extensive experience integrating services to build intelligent platforms.
+I follow best practices and implement modern user interfaces and best user experiences to ensure the highest quality of products.
 
         <h2>Main Languages/Frameworks:</h2>
         <ul style="list-style-type: disc; margin-left: 20px;">
@@ -29,4 +29,3 @@
         </ul>
 
         <p style="font-size: 16px; color: #666;">Let's help each other and learn a lot.</p>
-    </div> 
