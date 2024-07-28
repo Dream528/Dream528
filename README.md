@@ -1,5 +1,3 @@
-<html>
-    <body>
        <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto;">
         <h1 style="font-size: 28px; color: #333;">Hello, Everyone! Nice to meet you.</h1>
         <p style="font-size: 16px; color: #666;">I am a dedicated and motivated full-stack / AI software engineer with a specialty in front-end development.</p>
@@ -32,5 +30,3 @@
 
         <p style="font-size: 16px; color: #666;">Let's help each other and learn a lot.</p>
     </div> 
-    </body>
-</html>
