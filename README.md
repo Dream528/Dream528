@@ -1,4 +1,6 @@
-    <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto;">
+<html>
+    <body>
+       <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto;">
         <h1 style="font-size: 28px; color: #333;">Hello, Everyone! Nice to meet you.</h1>
         <p style="font-size: 16px; color: #666;">I am a dedicated and motivated full-stack / AI software engineer with a specialty in front-end development.</p>
         <p style="font-size: 16px; color: #666;">I have extensive experience building industrial web applications from scratch to production across a variety of industries including healthcare, e-commerce, internet marketing, entertainment, live streaming, and web3.</p>
@@ -29,4 +31,6 @@
         </ul>
 
         <p style="font-size: 16px; color: #666;">Let's help each other and learn a lot.</p>
-    </div>
+    </div> 
+    </body>
+</html>
