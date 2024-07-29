@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Sr. Full Stack | React Native | Python | Lang Chain Developer</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<div>
   # Frontend skills
 	- React.js, React Native, Next.js, Vue.js, Redux-Saga, Redux-Thunk
 	- Svelte, Angular, Lit
@@ -17,7 +16,6 @@
 	- PHP/Laravel
 	- MySQL, MongoDB, PostgreSQL, SQLite
 	- Amazon Web Services, Firebase
-</div>
 
 # 💻 My Stacks
 <div style="display: flex; align-items: flex-start; align: center">
