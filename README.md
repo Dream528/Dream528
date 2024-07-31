@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSlIHxyQLZAbDR3XOt-jlkmkTtB6eDiJIfhb8q_j1E3eVXeuZt" width="1300" height="800">
+<div style="background: 'https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' ">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Sr. Full Stack | React Native | Python | Lang Chain Developer</h1>
 
   # Frontend skills
@@ -17,6 +17,9 @@
 	- PHP/Laravel
 	- MySQL, MongoDB, PostgreSQL, SQLite
 	- Amazon Web Services, Firebase
+	
+</div>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSlIHxyQLZAbDR3XOt-jlkmkTtB6eDiJIfhb8q_j1E3eVXeuZt" width="1300" height="800">
 
 # 💻 My Stacks
 <div style="display: flex; align-items: flex-start; align: center">
