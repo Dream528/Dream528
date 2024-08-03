@@ -20,7 +20,7 @@
  # Backend skills
 	- Node.js / Express / Golang 
 	- Python / Django, Flask
-        - OpenAI / ChatGPT / Lang Chain / TTS / DALL-E / Whisper
+	- OpenAI / ChatGPT / Lang Chain / TTS / DALL-E / Whisper
 	- PHP/Laravel
 	- MySQL, MongoDB, PostgreSQL, SQLite
 	- Amazon Web Services, Firebase
