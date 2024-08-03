@@ -5,7 +5,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Dream528}/count.svg" alt="Dream528 :: Visitor's Count" /></p>
 
 <p align='center'>
-//<img src='https://github-widgetbox.vercel.app/api/profile?username=Dream528&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=Dream528&data=followers,repositories,stars,commits' />
 </p>
 
  # Frontend skills
