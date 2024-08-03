@@ -8,8 +8,8 @@
 //<img src='https://github-widgetbox.vercel.app/api/profile?username=Dream528&data=followers,repositories,stars,commits' />
 </p>
 
- // # Frontend skills
-	- React.js, React Native, Next.js, Vue.js, Redux-Saga, Redux-Thunk
+ # Frontend skills
+	- React.js, React Native, Next.js, Vue.js, Redux-Saga/Redux-Thunk
 	- Svelte, Angular, Lit
   	- HTML5, CSS3, SASS / Bootstrap, Styled components
   	- JavaScript, jQuery, Ajax
@@ -17,14 +17,14 @@
   	- Ant Design / Material Design / LESS / SASS
   	- WebPack, NPM, Yarn
 
- // # Backend skills
+ # Backend skills
 	- Node.js / Express / Golang 
 	- Python / Django, Flask
         - OpenAI / ChatGPT / Lang Chain / TTS / DALL-E / Whisper
 	- PHP/Laravel
 	- MySQL, MongoDB, PostgreSQL, SQLite
 	- Amazon Web Services, Firebase
-	
+
 # 💻 My Stacks
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
