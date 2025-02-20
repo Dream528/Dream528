@@ -1,5 +1,5 @@
 <img src="https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="1300" height="520">
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Sr. Full Stack | React Native & Flutter | Android & iOS | OpenAI | OTT</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Sr. Full Stack | Generative AI | OpenAI | Automation</h1>
 
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=Dream528&data=followers,repositories,stars,commits' />
