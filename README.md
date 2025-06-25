@@ -66,6 +66,3 @@ Creative and detail-oriented Fullstack Engineer with many years of experience in
 ---
 
 *"A strong advocate for clean, maintainable code and scalable solutions. I collaborate effectively with cross-functional teams to deliver impactful products."*
-
-### 🎯 Fun Fact
-The contribution graph above shows a snake/worm eating all my GitHub contributions! 🐍 It updates automatically every 12 hours.
