@@ -1,15 +1,8 @@
-# Hi there! 👋 I'm Le Viet Tinh
+# Hi there! 👋
 
 **Senior Full Stack Engineer**
 
-Creative and detail-oriented Fullstack Engineer with over 7 years of experience in software engineering, designing and maintaining scalable, secure, and high-performance systems. I specialize in building robust APIs, efficient user interfaces, and reliable infrastructure automation.
-
-## 🐍 My Contributions
-![Snake animation](https://github.com/leviettinh/leviettinh/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <img src="https://github.com/leviettinh/leviettinh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+Creative and detail-oriented Fullstack Engineer with many years of experience in software engineering, designing and maintaining scalable, secure, and high-performance systems. I specialize in building robust APIs, efficient user interfaces, and reliable infrastructure automation.
 
 ## 🛠️ Technologies & Tools
 
@@ -53,16 +46,6 @@ Creative and detail-oriented Fullstack Engineer with over 7 years of experience 
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## 💼 Professional Experience
-- 🚀 **Lead Full Stack Engineer** at **Beejern** (June 2024 - Present) - Oklahoma City, OK
-- 💡 **Senior Full Stack Engineer** at **Vengo Al** (Jan 2023 - May 2024) - Philadelphia, PA
-- 🔧 **Full Stack Developer** at **Interexy** (Sep 2021 - Dec 2022) - Miami, FL
-- 💻 **Freelance Full Stack Developer** (Dec 2018 - Aug 2021)
-
-## 🎓 Education
-**Bachelor of Science in Computer Science**  
-The University of Texas at Austin (2016-2021)
-
 ## 🚀 What I Do
 - 🏗️ Design and develop scalable full-stack applications
 - 🤖 Build AI-powered solutions with TensorFlow integration
@@ -83,16 +66,10 @@ The University of Texas at Austin (2016-2021)
 ## 📊 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leviettinh&theme=react-dark&hide_border=true)
 
-## 📫 How to reach me
-- 📧 Email: leviettinh.vietnam@gmail.com
-- 📱 Phone: +84 92 115 23 93
-- 📍 Location: Da Nang, Vietnam
-- 🌐 Portfolio: [Coming Soon]
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leviettinh&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=buildwithcode&color=brightgreen" alt="Profile Views" />
 </div>
 
 *"A strong advocate for clean, maintainable code and scalable solutions. I collaborate effectively with cross-functional teams to deliver impactful products."*
