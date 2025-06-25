@@ -4,6 +4,13 @@
 
 Creative and detail-oriented Fullstack Engineer with many years of experience in software engineering, designing and maintaining scalable, secure, and high-performance systems. I specialize in building robust APIs, efficient user interfaces, and reliable infrastructure automation.
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dream528&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dream528&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend
@@ -64,7 +71,7 @@ Creative and detail-oriented Fullstack Engineer with many years of experience in
 - **Real-time Systems**: WebSockets, WebRTC implementations
 
 ## 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leviettinh&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dream528&theme=react-dark&hide_border=true)
 
 ---
 
